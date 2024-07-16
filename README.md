@@ -4,30 +4,35 @@ This is a news web app built using React.js, which fetches and displays news art
 
 ## Home Page
 
-![Home Page](Screenshots/Screenshot 2024-07-16 125746.png)
 The home page displays the latest news articles. Users can browse articles by category from the navigation bar.
+
+![Screenshots/Screenshot 2024-07-16 125746.png](https://github.com/AliAtherAyyubi/News-Web-App/blob/main/Screenshots/Screenshot%202024-07-16%20125746.png)
 
 ## Category Navigation
 
-![Category Navigation](screenshots/category_navigation.png)
 Users can select different news categories from the navigation bar to filter articles accordingly.
+
+![Screenshots/Screenshot 2024-07-16 125840.png](https://github.com/AliAtherAyyubi/News-Web-App/blob/main/Screenshots/Screenshot%202024-07-16%20125840.png)
+
+![Screenshots/Screenshot 2024-07-16 125910.png](https://github.com/AliAtherAyyubi/News-Web-App/blob/main/Screenshots/Screenshot%202024-07-16%20125910.png)
 
 ## Article Card
 
-![Article Card](screenshots/article_card.png)
 Each article is presented in a card format with a title, summary, and a "Read More" button for detailed content.
+
+![Screenshots/Screenshot 2024-07-16 131918.png](https://github.com/AliAtherAyyubi/News-Web-App/blob/main/Screenshots/Screenshot%202024-07-16%20131918.png)
 
 ## Detailed Article View
 
-![Detailed Article View](screenshots/detailed_article_view.png)
 Clicking on "Read More" opens the full article, allowing users to read the complete content.
+
+![Screenshots/Screenshot 2024-07-16 125928.png](https://github.com/AliAtherAyyubi/News-Web-App/blob/main/Screenshots/Screenshot%202024-07-16%20125928.png)
+
+![Screenshots/Screenshot 2024-07-16 132444.png](https://github.com/AliAtherAyyubi/News-Web-App/blob/main/Screenshots/Screenshot%202024-07-16%20132444.png)
 
 ## Responsive Design
 
-![Responsive Design](screenshots/responsive_design.png)
 The app is fully responsive, providing a seamless user experience across devices, including desktops, tablets, and mobile phones.
 
-## API Integration
+![Screenshots/Screenshot 2024-07-16 132036.png](https://github.com/AliAtherAyyubi/News-Web-App/blob/main/Screenshots/Screenshot%202024-07-16%20132036.png)
 
-![API Integration](screenshots/api_integration.png)
-The app fetches real-time news data from a reliable API, ensuring users receive the most up-to-date information.
